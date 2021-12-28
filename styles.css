@@ -1,0 +1,84 @@
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    background-color: hsl(217, 54%, 11%);
+}
+p{
+    font-size: 18px;
+    font-family: "outfit";
+    padding: 0 0 0 25px;
+}
+hr{
+    border-style:solid none none none;
+    width: 80%;
+    border-color: hsl(215, 32%, 27%);
+
+}
+
+.content{
+    position: relative;
+    background-color: hsl(216, 50%, 16%);
+    width: 300px;
+    margin: 100px auto ;
+    border-radius: 5%;
+}
+.eqimage{
+    position: relative;
+    margin: 25px 25px 25px 25px;
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+}
+/* //////////////////////// Content Styling ///////////////////////// */
+
+.heading{
+    font-weight: 600;
+    color: hsl(0, 0%, 100%);
+}
+.info{
+    font-weight: 300;
+    color: hsl(215, 51%, 70%);
+}
+.avatar{
+    width: 25px;
+    margin-right: 10px;
+}
+.eth-icon{
+    float: left;
+    margin: 0 10px 0 25px;
+}
+.eth{
+    color: hsl(178, 100%, 50%);
+    font-weight: 300;
+    font-size: 14px;
+}
+.time-icon{
+    float: left;
+    margin: 0 10px 0 25px;
+    position: relative;
+}
+.time{
+    color: hsl(215, 51%, 70%);
+    font-weight: 300;
+    font-size: 14px;
+    position: relative;
+}
+.copyright{
+    padding-bottom: 20px;
+    font-size: 14px;
+    font-weight: 300;
+    color: hsl(215, 51%, 70%);
+}
+.copyright span{
+    color: hsl(0, 0%, 100%);
+}
+.etherium{
+    display: inline-block;
+    margin: 0 0 ;
+}
+.time-left{
+    display: inline-block;
+    margin: 0 15px 0 0;
+}
